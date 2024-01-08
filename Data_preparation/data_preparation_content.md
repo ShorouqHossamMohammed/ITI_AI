@@ -23,10 +23,7 @@ Welcome to the Data Preparation Labs repository! Here, you'll find hands-on labs
    - Practical EDA Techniques
 7. [Data Preparation and Feature Engineering](#data-preparation-and-feature-engineering)
 8. [Automating the Pipeline with Talend ETL](#automating-the-pipeline)
-9. [Labs](#labs)
-   - Lab 1: [Title]
-   - Lab 2: [Title]
-   - ...
+
 
 ## Introduction
 Get started with an overview of the importance of data preparation and its role in the data science lifecycle.
